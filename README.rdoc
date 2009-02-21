@@ -1,4 +1,4 @@
-
+more stuff
 = Emerald_city App 
 This is the code for a bunch of Atlanta area people to get together and learn
 Ruby on Rails.
