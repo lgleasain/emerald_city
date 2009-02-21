@@ -23,9 +23,8 @@ of their copyright is listed as follows:
 
 Any and all modifications that I have made to this code that are not copyrighted by The Pragmatic
 Bookshelf are released under the GPL v2.0 license.
-<<<<<<< HEAD:README.rdoc
 
-This rocks!
+
 =======
 hi it's mark
 
@@ -33,4 +32,4 @@ This is line 1
 This is line 2
 This is line 3
 This is line 4
->>>>>>> 9a3ac764f317605c76adccbb847a7ff3a2a98261:README.rdoc
+
